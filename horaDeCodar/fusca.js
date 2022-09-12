@@ -1,0 +1,2 @@
+var nomeDoCarro;
+nomeDoCarro = 'Fusca';
